@@ -15,4 +15,6 @@ or
 
 ```npm create vite@latest``` and ```npm i``` and ```npm run dev```
 
+## react virtual DOM, fibre
 
+[react fiber doc](https://github.com/acdlite/react-fiber-architecture)
