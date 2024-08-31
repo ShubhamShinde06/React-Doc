@@ -18,3 +18,13 @@ or
 ## react virtual DOM, fibre
 
 [react fiber doc](https://github.com/acdlite/react-fiber-architecture)
+
+## useCallback
+
+* is react hook thet lets you cache a function defintion between re-renders.
+store the `cacha data`
+* ``` const cachedFn = useCallback(fn, dependencies) ```
+
+## useRef
+
+* some item reference call this hook
